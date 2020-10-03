@@ -61,14 +61,49 @@ The components are laser cut perspex. You should be able to get these cut locall
 
 All components slot together with castellated joints. This ensures that the filter box is square. The squareness of the box is VERY important as if it is not perfectly square your rollers will not be aligned and the filter media will have a tendency to 'track' to one side.
 
-There are several holes in the box that need to be tapped for M5 plastic screws. These include the bottom roller fixings, the hanging bracket fixing and the float switch mount
+There are several holes in the box that need to be tapped for M5 plastic screws. These include the bottom roller fixings, the hanging bracket fixing, the drive roller mounts and the float switch mount
 
 ### Drive motor
 
+![images/motor.jpg](images/motor.jpg)
+
 The drive motor is a regular 2rpm 12Vdc worm geared motor with metal gearbox. Mounting holes are pre-cut in the box sides. The motor should be mounted with stainless steel M5 screws
+
+The motor has a 6mm shaft with a M1 17 tooth nylon drive spigot fitted
 
 The float switch is connected in series with the motor and PSU
 
 I recommend a 12Vdc plug top PSU. 0.5A should be plenty
 
 Waterproof all connections with heat shrink.
+
+### Waste filter roll
+
+Possibly the hardest part of the build is making the waste roller. The M1 48 tooth gear has to be glued in the correct position. The roller also has to be the correct width to fit in the guides. Trial fit the roller before gluing.
+
+## Using the filter roller.
+
+### Installing filter roll
+
+Installing the filter roll for the first time is pretty simple.
+
+- Install the filter roll ensuring that the roll unwinds to the bottom.
+- Pull a length of filter material from the roll
+- Fold the end of the roll over and back on itself aligning the edges of the roll. This ensures a straight edge.
+- Using a length of tape fix the end of the roll to the bottom of the waste roller
+- Plug the unit in an operate the float switch to roll filter material around the waste roller 
+- Push the loop of filter material downwards into the filter box
+- Install the two lower rollers
+- Unplug unit
+- Hang unit on side of tank / refuge / etc
+- Adjust mounting bracket until the bottom of the unit is submerged.
+- plug unit back in - you are good to go.
+- adjust tension on filter material by rolling back excess material on to filter roll.
+
+### Changing filter rolls
+
+- Unroll end of old filter roll.
+- Overlap new filter roll and old filter roll
+- Staple media together
+- Carefully draw join through filter by manually pulling filter media
+- When join has passed through machine, remove old filter roll, discard waste media and affix new media to roll using tape as before
