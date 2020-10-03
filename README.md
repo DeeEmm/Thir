@@ -47,7 +47,7 @@ One of the biggest complaints about roll filters is the cost of the media. I hav
 
 You may need to experiment a little to find a suitable local source. I found that getting a sample of the material and then doing a simple 'tap test' was enough to determine how well the material flowed water. Some materials did not pass water at all and the water simply rolled off. This was especially true of some of the 'interfacing' fabrics which contained a heat activated glue. These were obviously no good.
 
-![/images/fabriccloseup.jpg](/Images/fabriccloseup.jpg)
+![/images/fabriccloseup.jpg](/images/fabriccloseup.jpg)
 <br><br>
 I also analysed the fabric under a microscope to determine the size of the holes. Being a non-woven fabric the holes are irregularly sized so you need to do some a bit of mathematics and average out the sizes. This is not an exact science, but then I expect that most of what is sold comprises of 90% marketing waffle and 10% fact.
 
@@ -81,7 +81,7 @@ When the filter box has been glued, set it aside somewhere safe so that it does 
 
 ### Drive motor
 
-![images/motor.jpg](Images/motor.jpg)
+![images/motor.jpg](images/motor.jpg)
 
 The drive motor is a regular 2rpm 12Vdc worm geared motor with metal gearbox. Mounting holes are pre-cut in the box sides. The motor should be mounted with stainless steel M3 screws
 
