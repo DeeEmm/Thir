@@ -7,21 +7,25 @@ _(That's How I Roll)_
 
 ## About the THIR project
 
-Automatic roll filters are generally very expensive to buy and maintain despite the cost of materials and construction techniques being relatively cheap and easy to undertake. The idea of *THIR* is to design and make available plans for an automatic roll filter that anyone can put together at home as well as help people source affordable filter material.
+Automatic roll filters are generally very expensive to buy and maintain despite the cost of materials and construction techniques being relatively cheap and easy to undertake. The idea of *THIR* is to design and make available plans for an automatic roll filter that anyone can put together at home as well as help people source affordable filter material to use in their filters.
+
+## What is the benefit of a roll filter
+
+Traditional mechanical filtration usually consists of exchangeable filter socks or disposable filter media. Maintaining either type of filtration is relatively labour intensive and requires frequent ongoing attention. Using a roll filter does away with the need for frequent filter media changes, and also allows finer filtration media to be used. The mean-time-between filtration servicing is generally in the order of several weeks with a roll filter, compared to just a number days with traditional filtration. This free's up the aquarists time to do other more meaningful things such as learning ballet or bar skittles. 
 
 ## How do Roll Filters work?
 
-Automatic roll filters use a long strip of filter media wound onto a roll, much like a toilet roll. A length of media is unwound from the roll and water is passed through it. Particulates and waste become trapped in the media allowing the cleaned filtered water to pass through. When the media becomes blocked the water rises triggering a float switch which then indexes the roll presenting clean media to the water flow. Used media is wound onto a waste roll where it is stored until disposal.
+Automatic roll filters use a long strip of filter media wound onto a roll, much like a toilet or kitchen roll. A length of media is unwound from the roll and water is passed through it. Particulates and waste become trapped in the fibres of the media, leaving cleaned filtered water to pass through. When the media becomes blocked the water rises triggering a float switch which then moves the roll moving clean media to the water flow once again. Used media is wound onto a waste roll where it is stored until disposal.
 
 ## Why do we need yet another roll filter?
 
 There are many examples of roll filters now on the market, with a variety of designs, some good, some bad.
 
-Having been an early adopter of roll filters I discovered that there were lots of improvements that needed to be made to the unit I had before it could really be considered reliable. In fact I ended up redesigning pretty much all of it.
+Having been an early adopter of roll filters I discovered that there were lots of improvements that needed to be made to the unit I purchased before it could really be considered reliable. In fact I ended up redesigning pretty much all of it.
 
 It was whilst I was on this journey of repair and rebuild that I realised that paying several hundred dollars for a few dollars worth of perspex, an inferior design and a cheap $2 motor was an absolute travesty. Especially when I did not even manage to get to the end of the first filter roll before the machine broke. So I had the idea of making an improved roll filter and selling it. 
 
-Fast forwards two years and I still haven't gotten around to making roll filters as I am too damn busy. So I thought that perhaps instead of selling filters, I should simply give the design away and allow others to make their own and build on the work I had already done.
+Fast forwards two years and I still haven't gotten around to making roll filters as I am too damn busy. So I thought that perhaps instead of selling filters, I should simply give the design away for free and allow others to make their own and build on the work I have already done.
 
 ## Basic design constraints
 
@@ -56,6 +60,10 @@ The 'weed matting' material I use is just a generic non-woven material sold as '
 Of course YMMV and you will probably have no way of testing the effectiveness of any filter media you find until you build a filter box. So for this reason I recommend that you build a 'standard' width box. That is a box that will use off-of the shelf filter media. It's also a good idea to buy at least one roll of standard filter media so that you can get up and running straight away. This way you will also know what to expect performance-wise.
 
 ## How to make the THIR filter.
+
+A list of the parts you need is provided in the [bill of materials](BOM.md) This lists everything that you need to build a functional THIR filter.
+
+Feel free to modify, hack or otherwise substitute parts as you see fit. If you do make improvements, please share your changes here so that others may benefit by submitting a pull request.
 
 ### The filter box
 
