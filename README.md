@@ -1,13 +1,13 @@
-# THIR
+# THIR Aquarium Roll Filter
 _(That's How I Roll)_
 
 ## Open Source Aquarium Roll Filter
 
 **THIR** is a build it yourself roll-filter for your aquarium.
 
-## About THIR
+## About the THIR project
 
-Automatic roll filters are generally very expensive to buy and maintain despite the cost of materials and construction techniques being relatively cheap and easy to undertake. The idea of *THIR* is to design and make available plans for an automatic roll filter that anyone can put together at home. 
+Automatic roll filters are generally very expensive to buy and maintain despite the cost of materials and construction techniques being relatively cheap and easy to undertake. The idea of *THIR* is to design and make available plans for an automatic roll filter that anyone can put together at home as well as help people source affordable filter material.
 
 ## How do Roll Filters work?
 
@@ -59,29 +59,35 @@ Of course YMMV and you will probably have no way of testing the effectiveness of
 
 ### The filter box
 
-The components are laser cut perspex. You should be able to get these cut locally at any laser cutting service. You may also be able to get them cut at your local makerspace / hackerspace. 
+The filter box is made of laser cut perspex. You should be able to get the parts cut locally at any laser cutting service. You may also be able to get them cut at your local makerspace or hackerspace if they have a laser cutter. The designs are contained in the DXF files found in the 'Drawings' folder - these are the files that contain the information needed to cut the perspex parts that you need.
 
 All components slot together with castellated joints. This ensures that the filter box is square. The squareness of the box is VERY important as if it is not perfectly square your rollers will not be aligned and the filter media will have a tendency to 'track' to one side.
 
-There are several holes in the box that need to be tapped for M5 plastic screws. These include the bottom roller fixings, the hanging bracket fixing, the drive roller mounts and the float switch mount
+There are several holes in the box that need to be tapped for M5 plastic screws. These include the bottom roller fixings, the hanging bracket fixing, the drive roller mounts and the float switch mount. If you see a hole, tap it. Tapping the  holes is easiest done before you glue everything together.
+
+It's a good idea to do a trial assembly of the parts. This way you will ensure that they all fit together as well as learning where each part fits. If you need to adjust the size a little, a small length of wood with some fine sandpaper can be used to gently file the edges.
+
+When you are ready you can glue the parts together using super-glue or other appropriate glue. Just make sure all of the parts are clean before glueing. You should not need to clamp the parts together, they should hold in place even without using glue.
+
+When the filter box has been glued, set it aside somewhere safe so that it does not get disturbed whilst the glue sets.
 
 ### Drive motor
 
 ![images/motor.jpg](images/motor.jpg)
 
-The drive motor is a regular 2rpm 12Vdc worm geared motor with metal gearbox. Mounting holes are pre-cut in the box sides. The motor should be mounted with stainless steel M5 screws
+The drive motor is a regular 2rpm 12Vdc worm geared motor with metal gearbox. Mounting holes are pre-cut in the box sides. The motor should be mounted with stainless steel M3 screws
 
-The motor has a 6mm shaft with a M1 17 tooth nylon drive spigot fitted
+The motor has a 6mm shaft with an M1x17 tooth nylon drive spigot fitted
 
-The float switch is connected in series with the motor and PSU
+The float switch is connected in series with the motor and PSU so that when the float switch is active the motor turns.
 
-I recommend a 12Vdc plug top PSU. 0.5A should be plenty
+I recommend a 12Vdc plug top PSU. 0.5A should be plenty, these motors normally only draw about 0.1amps but will draw more when they are loaded up a little.
 
-Waterproof all connections with heat shrink.
+Make sure that you waterproof all connections with heat shrink. You can also use a large diameter heat shrink over the motor to waterproof the motor connections. There's no hard and fast rules on how to water-proof the motor, just use what you can.
 
 ### Waste filter roll
 
-Possibly the hardest part of the build is making the waste roller. The M1 48 tooth gear has to be glued in the correct position. The roller also has to be the correct width to fit in the guides. Trial fit the roller before gluing.
+Possibly the hardest part of the build is making the waste roller. The M1 48 tooth gear has to be glued in the correct position. The roller also has to be the correct width to fit in the filter box. Trial fit the roller and gear before gluing.
 
 ## Using the filter roller.
 
