@@ -11,6 +11,8 @@ To build a THIR Roll filter you will need the following parts
   - 1 x hanging bracket
   - 2 x waste roller end caps
   - 1 x float bracket
+  - 1 x MOD1 48tooth sprocket
+- 1 x MOD1 17tooth 6mm bore sprocket
 - 2 x 20mm diameter x 120mm acrylic tube
 - 2 x 10mm diameter x 110mm acrylic tube
 - 12 x M5 x 20 plastic screws

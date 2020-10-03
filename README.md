@@ -17,7 +17,7 @@ Traditional mechanical filtration usually consists of exchangeable filter socks 
 
 Automatic roll filters use a long strip of filter media wound onto a roll, much like a toilet or kitchen roll. A length of media is unwound from the roll and water is passed through it. Particulates and waste become trapped in the fibres of the media, leaving cleaned filtered water to pass through. When the media becomes blocked the water rises triggering a float switch which then moves the roll moving clean media to the water flow once again. Used media is wound onto a waste roll where it is stored until disposal.
 
-## Why do we need yet another roll filter?
+## Why do we need yet another roll filter design?
 
 There are many examples of roll filters now on the market, with a variety of designs, some good, some bad.
 
@@ -113,16 +113,26 @@ Installing the filter roll for the first time is pretty simple.
 - Unplug unit
 - Hang unit on side of tank / refuge / etc
 - Adjust mounting bracket until the bottom of the unit is submerged.
-- plug unit back in - you are good to go.
-- adjust tension on filter material by rolling back excess material on to filter roll.
+- Adjust tension on filter material by rolling back excess material on to filter roll.
+- Route the return from your display tank into the top of the filter box. 
+- NOTE: using a flexible silicon hose will allow easy removal for cleaning 
+- NOTE: fit a mesh / gauze / snail filter to the bottom of the return to stop snails entering the filter roll.
+- Plug unit back in - you are good to go.
 
 ### Changing filter rolls
 
+## The quick method
+
 - Unroll end of old filter roll.
-- Overlap new filter roll and old filter roll
-- Staple media together
-- Carefully draw join through filter by manually pulling filter media
+- Overlap new filter media and old filter media making sure the roll is in the correct orientation.
+- Staple both media together.
+- Carefully draw the new media through the filter by manually pulling the old filter media
 - When join has passed through machine, remove old filter roll, discard waste media and affix new media to roll using tape as before
 
+## The long method
 
-
+- Unplug the power
+- Remove the unit from tank / refuge / etc
+- Remove disused media
+- You've got it out of the tank, might as well give it a clean.
+- Follow installation instructions to reinstall.
