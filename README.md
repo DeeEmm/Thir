@@ -11,7 +11,7 @@ Automatic roll filters are generally very expensive to buy and maintain despite 
 
 ## How do Roll Filters work?
 
-Automatic roll filters use a long strip of filter media wound onto a roll, much like a toilet roll. A length of media is unwound from the roll and water is passed through it. Particulates and waste become trapped in the media allowing the cleaned filtered water to pass through. When the media becomes blocked new media is then automatically indexed off of the roll presenting clean media to the water flow. Used media is wound onto a waste roll where it is collected until the filter roll has been used.
+Automatic roll filters use a long strip of filter media wound onto a roll, much like a toilet roll. A length of media is unwound from the roll and water is passed through it. Particulates and waste become trapped in the media allowing the cleaned filtered water to pass through. When the media becomes blocked the water rises triggering a float switch which then indexes the roll presenting clean media to the water flow. Used media is wound onto a waste roll where it is stored until disposal.
 
 ## Why do we need yet another roll filter?
 
@@ -21,7 +21,7 @@ Having been an early adopter of roll filters I discovered that there were lots o
 
 It was whilst I was on this journey of repair and rebuild that I realised that paying several hundred dollars for a few dollars worth of perspex, an inferior design and a cheap $2 motor was an absolute travesty. Especially when I did not even manage to get to the end of the first filter roll before the machine broke. So I had the idea of making an improved roll filter and selling it. 
 
-Fast forwards two years and I still haven't gotten around to making roll filters. So I thought that perhaps instead of selling filters, I should simply give the design away and allow others to build on the work I had already done.
+Fast forwards two years and I still haven't gotten around to making roll filters as I am too damn busy. So I thought that perhaps instead of selling filters, I should simply give the design away and allow others to make their own and build on the work I had already done.
 
 ## Basic design constraints
 
@@ -109,3 +109,6 @@ Installing the filter roll for the first time is pretty simple.
 - Staple media together
 - Carefully draw join through filter by manually pulling filter media
 - When join has passed through machine, remove old filter roll, discard waste media and affix new media to roll using tape as before
+
+
+
