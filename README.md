@@ -3,7 +3,7 @@ _(That's How I Roll)_
 
 ## Open Source Aquarium Roll Filter
 
-*THIR* is a build it yourself roll-filter for your aquarium.
+**THIR** is a build it yourself roll-filter for your aquarium.
 
 ## About THIR
 
@@ -46,6 +46,8 @@ You may need to experiment a little to find a suitable local source. I found tha
 ![/images/fabriccloseup.jpg](/images/fabriccloseup.jpg)
 <br><br>
 I also analysed the fabric under a microscope to determine the size of the holes. Being a non-woven fabric the holes are irregularly sized so you need to do some a bit of mathematics and average out the sizes. This is not an exact science, but then I expect that most of what is sold comprises of 90% marketing waffle and 10% fact.
+
+TIP: _If you want to have a go at measuring the holes, you can easily make a guide from a human hair. The average hair is about 60 microns wide._
 
 I found that that a 10 micron filter roll was almost too small, especially when used on a small unit like I'm using (3000l/h), The filter roll ended up consumed very quickly, in fact when I initially tried it my water was obviously too dirty and the filter box simply overflowed as if the media was not passing anything. Smaller weave filter media requires very large filter boxes and wide filter rolls to get the flow required so make this a factor when building your box.
 
