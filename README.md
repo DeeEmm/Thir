@@ -67,11 +67,13 @@ Feel free to modify, hack or otherwise substitute parts as you see fit. If you d
 
 ### The filter box
 
-The filter box is made of laser cut perspex. You should be able to get the parts cut locally at any laser cutting service. You may also be able to get them cut at your local makerspace or hackerspace if they have a laser cutter. The designs are contained in the DXF files found in the 'Drawings' folder - these are the files that contain the information needed to cut the perspex parts that you need.
+NOTE: the desing is still yet to be drafted, the initial filter was made by hand and is still in use. You can easily make this by hand. See below for link to sketched design.
+
+The filter box is made of laser cut perspex. You should be able to get the parts cut locally at any laser cutting service. You may also be able to get them cut at your local makerspace or hackerspace if they have a laser cutter.  The designs are contained in the DXF files found in the 'Drawings' folder - these are the files that contain the information needed to cut the perspex parts that you need. You can also make it manually with a jigsaw or hand tools.
 
 All components slot together with castellated joints. This ensures that the filter box is square. The squareness of the box is VERY important as if it is not perfectly square your rollers will not be aligned and the filter media will have a tendency to 'track' to one side.
 
-There are several holes in the box that need to be tapped for M5 plastic screws. These include the bottom roller fixings, the hanging bracket fixing, the drive roller mounts and the float switch mount. If you see a hole, tap it. Tapping the  holes is easiest done before you glue everything together.
+There are several holes in the box that need to be tapped for M5 plastic screws. These include the bottom roller fixings, the hanging bracket fixing and the float switch mount. The spools are mounted on M8 bolts. If you see a hole, tap it. Tapping the  holes is easiest done before you glue everything together.
 
 It's a good idea to do a trial assembly of the parts. This way you will ensure that they all fit together as well as learning where each part fits. If you need to adjust the size a little, a small length of wood with some fine sandpaper can be used to gently file the edges.
 
@@ -93,9 +95,21 @@ I recommend a 12Vdc plug top PSU. 0.5A should be plenty, these motors normally o
 
 Make sure that you waterproof all connections with heat shrink. You can also use a large diameter heat shrink over the motor to waterproof the motor connections. There's no hard and fast rules on how to water-proof the motor, just use what you can.
 
-### Waste filter roll
+### Waste filter spool
 
-Possibly the hardest part of the build is making the waste roller. The M1 48 tooth gear has to be glued in the correct position. The roller also has to be the correct width to fit in the filter box. Trial fit the roller and gear before gluing.
+Possibly the hardest part of the build is making the waste spool. The gear has to be glued in the correct position. The roller also has to be the correct width to fit in the filter box. The tube also needs inserts in the ends so that the spool fits on the M8 bolts. Trial fit the roller, motor and gear before gluing.
+
+I found that drilling a hole in the center of the nylon gear with a hole saw allows the gear to sit on the shaft correctly
+
+
+
+## Community & Support
+
+A basic overview of the construction including some sketches can be found in the following discussion https://github.com/DeeEmm/Thir/discussions/4
+
+You can also catch us on discord https://discord.com/channels/762654320444440587/762654855608664067
+
+
 
 ## Using the filter roller.
 
@@ -138,4 +152,3 @@ Installing the filter roll for the first time is pretty simple.
 - Follow installation instructions to reinstall.
 
 
-A basic overview of the construction including some sketches can be found in the following discussion https://github.com/DeeEmm/Thir/discussions/4
