@@ -136,3 +136,6 @@ Installing the filter roll for the first time is pretty simple.
 - Remove disused media
 - You've got it out of the tank, might as well give it a clean.
 - Follow installation instructions to reinstall.
+
+
+A basic overview of the construction including some sketches can be found in the following discussion https://github.com/DeeEmm/Thir/discussions/4
